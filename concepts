@@ -1,0 +1,11 @@
+1. TCP/IP and Socket programming- we need this because we need connection between server to client 
+2. Concurrency and Multithreading - will help us handle multiple client at the same time
+3. Mutex and Sync.. - will help us in safe usage of shared resources
+4. Data Structures - > Hash Tables(key-value storing), Vectors
+5. Parsing and REPS protoccol - protocols are important
+6. File I/O Presitance -maintain the durability , save and load the database state
+7. Signal Handling - will help in shutting down the server
+8. Command Processing and Response Formatting 
+9. Singleton Pattern - will help to use only one instance of the database to the application. so it doesnt get mixed up
+10. Bitwise Operator
+11. std:: libraries
